@@ -1,2 +1,7 @@
 # Student-Management-System
-This project add student,view student,search student,update student,delete student by using choices entered by users.
+This is a simple python terminal-based project that allows users to:
+- Add students
+- View student
+- Search student
+- Delete student
+Build while learning python and github.
